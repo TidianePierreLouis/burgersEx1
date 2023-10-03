@@ -1,33 +1,25 @@
 .container{
     background-color: #ffffff;
 }
-
 .subtitle{
     font-weight: bold;
     color: black;
 }
-
-.textSet{
-    color: black;
-}
-
 .textSet2{
-    color: gray;
+    color: #5e5d5d;
 }
 .deco{
     text-decoration: none;
 }
-
 .title{
     font-weight: bolder;
 }
-
-.pos{
-    display: flex;
-    justify-content: center;
-    margin: 12px;
-}
-
 .capital{
     text-transform: uppercase;
+}
+
+.set{
+    padding-right: 5px;
+    padding-left: 5px;
+
 }
